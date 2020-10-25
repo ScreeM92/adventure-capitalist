@@ -5,5 +5,5 @@ or
 
 ```bash
 npm i
-npm start
+npm dev
 ```
