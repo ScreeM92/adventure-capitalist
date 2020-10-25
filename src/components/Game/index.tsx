@@ -7,7 +7,7 @@ import { BalanceProvider } from '../../state/Balance';
 import { ManagerProvider } from '../../state/Managers';
 import { UpgradeProvider } from '../../state/Upgrades';
 import { Logo, Heading, Wrapper } from './styles';
-import Navbar from 'react-bootstrap/NavBar';
+import Navbar from 'react-bootstrap/Navbar';
 import Toast from 'react-bootstrap/Toast';
 import logo from '../../assets/logo.png';
 import { storage } from '../../shared/Storage';
