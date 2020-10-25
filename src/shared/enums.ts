@@ -1,0 +1,7 @@
+export enum StorageKey {
+    BALANCE = 'BALANCE',
+    BUSINESSES = 'BUSINESSES',
+    MANAGERS = 'MANAGERS',
+    UPGRADES = 'UPGRADES',
+    LOGOUT = 'LOGOUT'
+}
