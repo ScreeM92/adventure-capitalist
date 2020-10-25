@@ -1,5 +1,5 @@
 Demo:
-[Adventure Capitalist](https://test.com)
+[Adventure Capitalist](https://adventure-capitalist-playtech.herokuapp.com/)
 
 or
 
