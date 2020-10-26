@@ -41,7 +41,7 @@ export const Game: React.FunctionComponent = () => {
 
       <Toast onClose={() => setShow(false)} show={show} delay={10000} autohide style={{
           position: 'absolute',
-          top: 20,
+          top: 100,
           right: 20,
         }}>
         <Toast.Header>
