@@ -5,7 +5,7 @@ const managers: IManager[] = [
     businessId: 'lemonade',
     name: 'Frankie Powell',
     description: 'Runs Lemonade Stands',
-    price: 100,
+    price: 1000,
   }, {
     businessId: 'newspaper',
     name: 'Finley Lowe',

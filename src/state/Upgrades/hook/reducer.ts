@@ -1,5 +1,5 @@
 import { ActionMap } from '../../../shared/helper';
-import { IUpgrade } from '../interfaces';
+import { IUpgrade } from '../../../shared/interfaces';
 
 export type State = IUpgrade[];
 

@@ -1,4 +1,4 @@
-import { IUpgrade } from '../interfaces';
+import { IUpgrade } from '../../../shared/interfaces';
 
 const upgrades: IUpgrade[] = [
   {
